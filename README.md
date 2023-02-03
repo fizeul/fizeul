@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fizeul
-- 👀 I’m interested in Data Analysis and Web Page Development
-- 🌱 I’m currently learning Data Analysis on Udacity
-- 💞️ I’m looking to collaborate on Data Analysis Projects
+- 👀 I’m interested in Software Engineerimg and Data Analysis
+- 🌱 I’m currently software Engineering on ALX
+- 💞️ I’m looking to collaborate on Software Engineering/Data Analysis Projects
 - 📫 You can reach me via my LinkedIn profile on my page
 
 <!---
